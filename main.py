@@ -20,6 +20,7 @@ def new_change_for_conflict():
 
 def there_is_np():
     return "aasdffg"
+    
 def new_func():
     pass
 
