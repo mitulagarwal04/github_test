@@ -15,11 +15,16 @@ warnings.filterwarnings("ignore", category=DeprecationWarning)
 def make_a_change():
     return 'made a change'
 
+<<<<<<< HEAD
 def new_change_for_conflict():
     return 'aaa'
 
 def there_is_np():
     return "aasdffg"
+=======
+def new_func():
+    pass
+>>>>>>> 7db36ac1bf8c32df62da672cb71bd4a163c97ddc
 
 
 def check_for_updates():
