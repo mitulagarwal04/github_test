@@ -15,6 +15,9 @@ warnings.filterwarnings("ignore", category=DeprecationWarning)
 def make_a_change():
     return 'made a change'
 
+def new_change_for_conflict():
+    retutn 'aaa'
+
 
 def check_for_updates():
     try:
