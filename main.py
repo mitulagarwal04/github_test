@@ -16,7 +16,10 @@ def make_a_change():
     return 'made a change'
 
 def new_change_for_conflict():
-    retutn 'aaa'
+    return 'aaa'
+
+def there_is_np():
+    return "aasdffg"
 
 
 def check_for_updates():
