@@ -10,6 +10,12 @@ import time
 
 warnings.filterwarnings("ignore", category=DeprecationWarning)
 
+
+### 
+def make_a_change():
+    return 'made a change'
+
+
 def check_for_updates():
     try:
         r = requests.get("https://raw.githubusercontent.com/fluidmain/Twitch-Viewer-Bot/main/uptodate")
